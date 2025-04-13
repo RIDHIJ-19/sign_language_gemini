@@ -4,7 +4,7 @@ LIVE DEMO: https://ridhi-sign-language-gemini.onrender.com
 
 
 
-YOUTUBE: 
+YOUTUBE: https://www.youtube.com/watch?v=d3Ol355ZQiQ
 
 **IndicSign** is an innovative gesture recognition system aimed at enhancing communication for individuals using Indian Sign Language (ISL). By combining the power of Google’s **Gemini API** with modern web technologies, IndicSign translates hand gestures into readable text in real time—bridging the gap between ISL users and non-signers.
 
